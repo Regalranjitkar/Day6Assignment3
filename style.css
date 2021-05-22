@@ -1,0 +1,33 @@
+*{
+    margin: 0%;
+}
+.page-wrapper{
+    width: 100%;
+    background-color: #a6d9e5;
+    padding: 5% 0%;
+}
+.gray-box{
+    background-color: #d3d3d3;
+    width: 80%;
+    margin: 0% auto;
+    padding: 0.5%;
+}
+.pink-box{
+    background-color: #ffb6c1;
+    width: 90%;
+    margin: 0% auto;
+    padding: 0.5%;
+}
+ul{
+    background-color: #00b2aa;
+    width: 80%;
+    margin: 0% auto;
+    padding: 1%;
+}
+li{
+    list-style-type: none;
+    display: inline-block;
+    background-color: #fffee2;
+    width: 20%;
+    padding-bottom: 25%;
+}
